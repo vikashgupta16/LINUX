@@ -20,7 +20,12 @@
 ### 📂 `cd` - **Change Directory**  
 📌 Navigates between directories.  
 - **Syntax:** `cd <directoryname>`  
-- **Example:** `cd my_directory`  
+- **Example:** `cd my_directory`
+
+### 📂 `cd` - **Change Directory**  
+📌 Navigates to home.  
+- **Syntax:** `cd\`  
+- **Example:** `cd\`
 
 ### 🗑 `rmdir` - **Remove Directory**  
 📌 Removes an empty directory.  
@@ -30,7 +35,7 @@
 ### ❌ `rm` - **Remove Files**  
 📌 Deletes a file.  
 - **Syntax:** `rm <filename>`  
-- **Example:** `rm myfile.txt`  
+- **Example:** `rm myfile.c`  
 
 ---
 
@@ -38,22 +43,22 @@
 ### 📝 `vi` - **Visual Editor**  
 📌 Opens the `vi` editor to create or modify files.  
 - **Syntax:** `vi <filename>`  
-- **Example:** `vi myfile.txt`  
+- **Example:** `vi myfile.c`  
 
 ### 🚀 `mv` - **Move/Rename Files**  
 📌 Moves or renames a file.  
 - **Syntax:** `mv <source> <destination>`  
-- **Example:** `mv myfile.txt /home/user/documents/`  
+- **Example:** `mv myfile.c /home/user/documents/`  
 
 ### 📑 `cp` - **Copy Files**  
 📌 Copies a file to another location.  
 - **Syntax:** `cp <source> <destination>`  
-- **Example:** `cp myfile.txt /home/user/documents/`  
+- **Example:** `cp myfile.c /home/user/documents/`  
 
 ### 🔍 `cat` - **View File Contents**  
 📌 Displays the content of a file.  
 - **Syntax:** `cat <filename>`  
-- **Example:** `cat myfile.txt`  
+- **Example:** `cat myfile.c`  
 
 ---
 
